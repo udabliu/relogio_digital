@@ -64,7 +64,7 @@ body{
 #minutos:hover,
 #segundos:hover{
     cursor: pointer;
-    color: aqua;
+    color: rgb(156, 83, 0);
 }
 
 
