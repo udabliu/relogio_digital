@@ -22,7 +22,7 @@ body{
 	width: auto; 
 	height: auto; 
 	z-index: -1000;
-	background: url(images/torre.jpg) no-repeat;
+	background: url(/img/wavygrass.mp4) no-repeat;
 	background-size: cover; 
 }
 
@@ -43,11 +43,11 @@ body{
     display: flex;
     flex-direction: column;
     color: #aaa;
-    animation: neon 2s ease-in-out infinite alternate;
+    animation: neon 100000000000s ease-in-out infinite alternate;
 }
 
     @keyframes neon{
-        from{text-shadow: 0 0 35px #fff,
+        from{text-shadow: 0 0 35px #721818,
                           0 0 40px #aaa ;}
     }
 
